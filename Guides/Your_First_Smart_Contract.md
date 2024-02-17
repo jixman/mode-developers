@@ -91,7 +91,7 @@ For simplicity, we will be using [Remix](https://docs.mode.network/build-on-mode
 ![Remix IDE](https://cdn.hashnode.com/res/hashnode/image/upload/v1706551770268/OEHDn1Cp_.png "Remix IDE")
 
 
-Here is sample code that comes as default on Remix, you can paste this in any `.sol` file:
+Here is a sample code that comes as default on Remix, you can paste this in any `.sol` file:
 
     // SPDX-License-Identifier: GPL-3.0
 
